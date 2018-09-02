@@ -11,7 +11,7 @@ title = "Demo Store"
 [params]
 author = "Your name"
 cloudinary_base_url = "https://res.cloudinary.com/dwalkr"
-currency = "USD"
+currency = "CAD"
 description = "Write an awesome description for your new site here. You can edit this\nline in config.yml. It will appear in your document head meta (for\nGoogle search results) and in your RSS feed description.\n"
 snipcart_live_api_key = ""
 snipcart_test_api_key = "MDEzNmY3NzktNTYzMS00NTJhLWI5MWQtOGQxYWI0N2E5YmIwNjM2NzE0OTQxNjcwMTgyMzI4"
